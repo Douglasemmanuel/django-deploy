@@ -73,7 +73,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'deploy.wsgi.app'
+WSGI_APPLICATION = 'deploy.wsgi.application'
 
 
 # Database
